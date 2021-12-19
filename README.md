@@ -1,1 +1,2 @@
 # COVID-in-Taiwan
+Though at the starting point of the COVID-19, Taiwan is the country with the least confirmed cases around the world. However, as the vacccination rate gradually rise up in most of the countries, Taiwan has no resources to get enough vaccine for their people. Without a doubt, without vaccination, no matter how governemnt strives to block virus out of the country, it only can last a short amount of time.
